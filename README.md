@@ -1,4 +1,6 @@
 # adventure-money
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fyetti%2Fadventure-money.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fyetti%2Fadventure-money?ref=badge_shield)
+
 
 *Rails port of [adventure-money](https://code.google.com/archive/p/adventure-money/).*
 
@@ -18,3 +20,7 @@ Calculate the money owed in your group in 4 steps:
 2. Set the manager. He/she is the person that will receive money from everyone else at the end of the month. 
 3. Add one or more payments (i.e. rent, electricity bill, shopping bill) and specify who paid for it, and which people share it. 
 4. Adventure Money will divide up all the amounts based on who shared and paid for each bill and give you the amount each person owed.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fyetti%2Fadventure-money.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fyetti%2Fadventure-money?ref=badge_large)
